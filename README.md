@@ -1,9 +1,9 @@
 # RSGen
 Source code for Rough Surface Generator plug-in for Abaqus/CAE
-#Version RSGen_V1.0 (First release 09/01/2022)
-
-#Developer: Youngbin LIM 
-#Contact: lyb0684@naver.com
+Version RSGen_V1.0 (First release 09/01/2022)
+--------------------------
+Developer: Youngbin LIM 
+Contact: lyb0684@naver.com
 
 Installation Instructions:
 --------------------------
