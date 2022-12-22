@@ -6,7 +6,7 @@ Contact: lyb0684@naver.com
 
 Notes:
 --------------------------
-The plug-in is not part of official product by SIMULIA Dassault Systemes.
+The plug-in is not part of official product provided by SIMULIA Dassault Systemes.
 Regarding the inquiries on the plug-in, please contact developer.
 
 Installation Instructions:
