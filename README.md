@@ -6,8 +6,8 @@ Contact: lyb0684@naver.com
 
 Disclaimer:
 --------------------------
-The plug-in is not part of official product provided by DASSAULT SYSTEMES SIMULIA CORP (Collectively "DS"). 
-The authors do not represent DS and your use of this download shall be at your sole risk. No support of any kind of the download is provided by DS.
+The author do not represent DASSAULT SYSTEMES SIMULIA CORP (Collectively "DS") and the plug-in is not part of official product provided by DS. 
+Your use of this download shall be at your sole risk. No support of any kind of the download is provided by DS.
 Regarding the inquiries on the plug-in, please contact developer.
 
 Installation Instructions:
