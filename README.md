@@ -1,7 +1,7 @@
 # RufGen
 Source code for Rough Surface Generator plug-in for Abaqus <br><br>
 Supported Versions: Abaqus 2020~2023 <br>
-For Abaqus 2024 and higher, contact developer
+For Abaqus 2024 and higher, please contact developer
 
 Developer: Youngbin LIM\
 Contact: lyb0684@naver.com
