@@ -29,4 +29,5 @@ Citation:
   publisher={Elsevier},
   doi={10.1016/j.softx.2023.101380},
   url={https://doi.org/10.1016/j.softx.2023.101380}
-}
+}<br>
+Y. Lim and S. Ha, "RufGen: A plug-in for rough surface generation in Abaqus/CAE," SoftwareX, vol. 22, p. 101380, 2023.
