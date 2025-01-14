@@ -22,8 +22,7 @@ Citation:
 --------------------------
 Y. Lim and S. Ha, "RufGen: A plug-in for rough surface generation in Abaqus/CAE," SoftwareX, vol. 22, p. 101380, 2023.<br><br>
 
-### LaTex
-
+LaTex
 ```bibtex
 @article{lim2023rufgen,
   title={RufGen: A plug-in for rough surface generation in Abaqus/CAE},
